@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/CS-A-11/assignment1-irtazafayaz1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ [Profile link](https://irtazafayaz1.github.io) .
+ 
+ ## Project
+ [Profile link](https://cs-a-11.github.io/assignment1-irtazafayaz1/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
