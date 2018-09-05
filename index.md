@@ -1,6 +1,6 @@
-##Welcome to the "Mad world"
+## Welcome to the "world of puns and jokes"
 
-This is the project i had made for my assignment
+Programmer's behaviour is difficult to depict, by the time your code is working, you are the most peaceful person in the world but but as soon as you start getting bugs and errors , you are no less than the MAD KING from the game of thrones.                                   
 
 [Irtaza Fayaz's CV](https://irtazafayaz1.github.io/ )
 
